@@ -1,0 +1,5 @@
+groq
+speech_recognition
+pygame
+gTTS
+edge_tts
